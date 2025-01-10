@@ -24,6 +24,4 @@ A sleek Movie Listing App showcasing popular and upcoming movies. Tap on a movie
 
 ![App Screenshot](https://drive.google.com/file/d/1NSs8U0K1f7alzVjDZsfVnLDXeoqR6zQT/view?usp=drive_link)
 
-![SS] (https://images.pexels.com/photos/29399294/pexels-photo-29399294/free-photo-of-serene-winter-landscape-with-snowy-mountains.jpeg)
-
-
+![App Screenshot]([https://drive.google.com/file/d/1NSs8U0K1f7alzVjDZsfVnLDXeoqR6zQT/view?usp=drive_link](https://images.pexels.com/photos/29399294/pexels-photo-29399294/free-photo-of-serene-winter-landscape-with-snowy-mountains.jpeg))
